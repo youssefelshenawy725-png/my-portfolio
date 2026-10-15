@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f0ff;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+header {
+    background-color: white;
+    padding: 30px 15px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #6c4ab6;
+}
+
+h2 {
+    color: #8e6ac8;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    border-radius: 15px;
+    box-shadow: 0 3px 10px #ddd;
+}
+
+section p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+footer {
+    color: #6c4ab6;
+    padding: 15px;
+}
