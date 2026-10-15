@@ -1,46 +1,51 @@
 <!DOCTYPE html>
-<html lang="ar" dir="rtl">
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <title>محفظة أعمالي</title>
-<link rel="stylesheet" href="style.css">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f3f4f6;
-      color: #222;
-      text-align: center;
-      padding: 40px 15px;
-      margin: 0;
-    }
-    .card {
-      background: white;
-      max-width: 500px;
-      margin: 40px auto;
-      padding: 30px 20px;
-      border-radius: 18px;
-      box-shadow: 0 4px 18px #0001;
-    }
-    h1 { color: #6c4de6; }
-    p { line-height: 1.9; }
-    a {
-      display: inline-block;
-      background: #6c4de6;
-      color: white;
-      padding: 12px 22px;
-      border-radius: 10px;
-      text-decoration: none;
-      margin-top: 12px;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rahma Elshenawy | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="card">
-    <h1>أهلاً بيكم في محفظة أعمالي ✨</h1>
-    <p>أنا بصمم وأتعلم وأطور مهاراتي كل يوم.</p>
-    <p>دي صفحتي الشخصية لعرض أعمالي ومشاريعي.</p>
-    <a href="https://github.com/">شاهد مشاريعي</a>
-  </div>
+
+    <header>
+        <h1>Rahma Elshenawy</h1>
+        <p>Computer and Information Student</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>
+                Hello! My name is Rahma Elshenawy.
+                I am a Computer and Information student
+                interested in learning web development
+                and programming.
+            </p>
+        </section>
+
+        <section>
+            <h2>My Skills</h2>
+            <p>HTML</p>
+            <p>CSS</p>
+            <p>Programming Basics</p>
+        </section>
+
+        <section>
+            <h2>My Projects</h2>
+            <p>Personal Portfolio Website</p>
+            <p>A simple website created using HTML and CSS.</p>
+        </section>
+
+        <section>
+            <h2>Contact Me</h2>
+            <p>Name: Rahma Elshenawy </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2026 Rahma Elshenawy </p>
+    </footer>
+
 </body>
 </html>
